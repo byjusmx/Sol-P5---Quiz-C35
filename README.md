@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# Movimiento de la pelota
+Pelota moviéndose sincrónicamente
