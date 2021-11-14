@@ -49,5 +49,5 @@ function readPosition(data){
 }
 
 function showError(){
-  console.log("Error in writing to the database");
+  console.log("Error al escribir en la base de datos");
 }
